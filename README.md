@@ -29,7 +29,7 @@ Search all MojiLaLa Stickers for a word or phrase. Punctuation will be stripped 
 + offset - (optional) results offset, defaults to 0
 + rating - limit results to those rated (y,g, pg, pg-13 or r).
 + lang - (optional) specify default country for regional content; format is 2-letter ISO 639-1 country code. See list of supported langauges [here](#language-support)
-+ fmt - (optional) return results in html or json format (useful for viewing responses as GIFs to debug/test)
++ fmt - (optional) return results in html or json format (useful for viewing responses as IMAGESs to debug/test)
 
 ### Sample Response: Search
 
