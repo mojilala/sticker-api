@@ -831,3 +831,5 @@ The MojiLaLa API offers language support across the Search and Trendind APIs.
 + Slovak (sk)
 + Slovenian (sl)
 + Afrikaans (af)
+
+Inspired by Giphy API https://github.com/Giphy/GiphyAPI
