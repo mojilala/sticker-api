@@ -1,6 +1,6 @@
 # MojiLaLa Partnership REST API Documentation
 
-20,000+ original stickers by 400+ artists all over the world.
+40,000+ original stickers by 400+ artists all over the world.
 
 The MojiLaLa API that provide animated and static stickers in the responses. The available endpoints are as follows:
 
