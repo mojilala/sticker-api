@@ -11,7 +11,7 @@ The MojiLaLa API that provide animated and static stickers in the responses. The
 + [Sticker Search](#sticker-search-endpoint)
 + [Sticker Trending](#sticker-trending-endpoint)
 
-### STICKER API PUBLIC KEY
+### STICKER API KEY
 
 Get you private API Key from: https://dashboard.mojilala.com/api
 
