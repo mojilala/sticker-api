@@ -2,7 +2,7 @@
 
 We handle millions of requests a day. 
 
-40,000+ original stickers by 500+ artists all over the world.
+68k+ original stickers by 5k+ artists all over the world.
 
 
 
