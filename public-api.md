@@ -15,7 +15,7 @@ The MojiLaLa API that provide animated and static stickers in the responses. The
 
 Get you private API Key from: https://dashboard.mojilala.com/api
 
-API URL: https://api.stickerapi.io
+API URL: http://api.stickerapi.io
 
 #### Authorization
 
