@@ -15,6 +15,8 @@ The MojiLaLa API that provide animated and static stickers in the responses. The
 
 Get you private API Key from: https://dashboard.mojilala.com/api
 
+API URL: https://api.stickerapi.io
+
 #### Authorization
 
 Headers:
@@ -27,7 +29,7 @@ x-api-key: {{YOUR_API_KEY}}
 
 Search all MojiLaLa Stickers for a word or phrase. Punctuation will be stripped and ignored. Use a plus or url encode for phrases. Example paul+rudd, happy+easter or american+psycho.. Example [cat](https://api.mojilala.com/v1/stickers/search?q=cat&api_key=dc6zaTOxFJmzC)
 
-    https://api.mojilala.com/v2/stickers/search?q=cat
+    https://api.stickerapi.io/v2/stickers/search?q=cat
     
 ###### Path
 
@@ -602,7 +604,7 @@ curl -H "x-api-key: YOUR_API_KEY" http://localhost:3000/v2/stickers/search?q=cut
 
 The MojiLaLa API offers language support across the Search and Trendind APIs.
 
-	https://api.mojilala.com/v1/stickers/search?q=amor&api_key=dc6zaTOxFJmzC&lang=es
+     https://api.stickerapi.io/v2/stickers/search?q=amor&lang=es
 
 [Example](https://api.mojilala.com/v1/stickers/search?q=amor&api_key=dc6zaTOxFJmzC&lang=es) search query.
 
