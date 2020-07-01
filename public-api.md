@@ -379,7 +379,7 @@ Search all MojiLaLa Stickers for a word or phrase. Punctuation will be stripped 
 
 Get the latest stickers trending on MojiLaLa with this endpoint. Hand curated by the MojiLaLa editorial team and refreshed daily.  
 
-    https://api.mojilala.com/v2/stickers/trending
+    https://api.stickerapi.io/v2/stickers/trending
 
 ###### Path
 
@@ -584,7 +584,7 @@ Get the latest stickers trending on MojiLaLa with this endpoint. Hand curated by
 ### Command line Exmaple, cURL
 
 ```
-curl -H "x-api-key: YOUR_API_KEY" http://localhost:3000/v2/stickers/search?q=cute&offset=0
+curl -H "x-api-key: YOUR_API_KEY" http://stickerapi.io/v2/stickers/search?q=cute&offset=0
 ```
     
 ## Rendition Guide
