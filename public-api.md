@@ -10,6 +10,7 @@ The MojiLaLa API that provide animated and static stickers in the responses. The
 
 + [Sticker Search](#sticker-search-endpoint)
 + [Sticker Trending](#sticker-trending-endpoint)
++ [Language Support](#language-support)
 
 ### STICKER API KEY
 
