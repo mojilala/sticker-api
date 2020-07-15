@@ -45,9 +45,11 @@ Search all MojiLaLa Stickers for a word or phrase. Punctuation will be stripped 
 ### Sample Response: Search
 
 * if sticker is not animated
-    
-```json
-{
+<details>
+  <summary>Click to expand the example result!</summary>
+  
+  ```json
+    {
   "data": [
     {
       "id": "U3RpY2tlci05NjM=",
@@ -186,8 +188,8 @@ Search all MojiLaLa Stickers for a word or phrase. Punctuation will be stripped 
     "offset": 0
   }
 }
-
 ```
+</details>    
 
 * if sticker is animated
 
