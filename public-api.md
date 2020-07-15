@@ -193,6 +193,9 @@ Search all MojiLaLa Stickers for a word or phrase. Punctuation will be stripped 
 
 * if sticker is animated
 
+<details>
+  <summary>Click to expand the example result!</summary>
+
 ```json
 {
   "data": [
@@ -377,6 +380,7 @@ Search all MojiLaLa Stickers for a word or phrase. Punctuation will be stripped 
     }
 }
 ```
+</details>
 
 ### STICKER Trending Endpoint
 
@@ -396,6 +400,8 @@ Get the latest stickers trending on MojiLaLa with this endpoint. Hand curated by
 + lang - (optional) specify default country for regional content; format is 2-letter ISO 639-1 country code. See list of supported langauges [here](#language-support)
 
 ### Sample Response: Trending Stickers
+<details>
+  <summary>Click to expand the example result!</summary>
 
 ```json
 
@@ -582,7 +588,7 @@ Get the latest stickers trending on MojiLaLa with this endpoint. Hand curated by
     }
 }
 ```
-
+</details>
 
 ### Command line Exmaple, cURL
 
