@@ -1,4 +1,4 @@
-# MojiLaLa Public API Documentation
+# Sticker API Documentation
 
 We handle millions of requests a day. 
 
